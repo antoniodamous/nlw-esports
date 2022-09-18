@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🙇🏻‍♂️ Apredizado
 
 ---
+
 - Estrutura básica HTML
 - Reset css
 - Espaçamento
