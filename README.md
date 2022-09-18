@@ -54,21 +54,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  </a>
   
  <a href="https://twitter.com/antonio_damous" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/antoniodamou"/> 
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/antoniodamous"/> 
  </a>
 
  </p>
  
 ## 💻 Autor<br>
 ---
-<table>
-  <tr>
-    <center>
-      <a href="https://github.com/EvanderInacio">
+<center>
+      <a href="https://github.com/antoniodamous"> <center>
         <img src="https://github.com/antoniodamous.png" width="100px;" />
       </a>
-    </td>
-  </tr>
-</table>
 
 <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/antoniodamous/">Antônio Damous</a> ☕</h3>
