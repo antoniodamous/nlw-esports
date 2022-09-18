@@ -63,12 +63,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 <table>
   <tr>
-    <td align="center">
+    <center>
       <a href="https://github.com/EvanderInacio">
-        <img src="https://github.com/antoniodamous.png" width="100px;" /><br>
-        <sub>
-          <b>Antonio Damous</b>
-        </sub>
+        <img src="https://github.com/antoniodamous.png" width="100px;" />
       </a>
     </td>
   </tr>
