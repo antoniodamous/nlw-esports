@@ -1,6 +1,6 @@
 # NLW eSports 🎮
 
-> Tilha Explorer
+> Trilha Explorer
 
 ![preview](./.github/preview.png)
 
