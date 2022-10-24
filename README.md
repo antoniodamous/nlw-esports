@@ -6,15 +6,11 @@
 
 ## 📝 Descrição
 
----
-
 Projeto cronstruído do evento Next Level da Rocketseat.
 
 🔗 [Clique aqui para acessar](https://antoniodamous.github.io/nlw-esports-explorer/)
 
 ## 🛠 Tecnologias
-
----
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -23,8 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 🙇🏻‍♂️ Apredizado
-
----
 
 - Estrutura básica HTML
 - Reset css
@@ -35,17 +29,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Keyframes
 - Animações em CSS
 
----
-
 ## 📚 Bibliotecas
-
----
 
 - [Google Fonts](https://fonts.google.com/)
 
 ## 🔗 Links
-
----
 
 <p align="center">
  
@@ -60,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  </p>
  
 ## 💻 Autor<br>
----
+
 <center>
       <a href="https://github.com/antoniodamous"> <center>
         <img src="https://github.com/antoniodamous.png" width="100px;" />
