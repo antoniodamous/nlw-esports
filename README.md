@@ -51,7 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <center>
       <a href="https://github.com/antoniodamous"> <center>
-        <img src="https://github.com/antoniodamous.png" width="100px;" />
-      </a>
+       <p align="center"><img src="https://github.com/antoniodamous.png" width="100px;" />
+        </a> </p>
 
 <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/antoniodamous/">Antônio Damous</a> ☕</h3>
